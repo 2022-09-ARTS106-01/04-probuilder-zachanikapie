@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Props Probuilder.unity
     guid: 2ac308b798d6c3d40b0a9e85127414b7
+  - enabled: 1
+    path: Assets/Low Poly Probuilder.unity
+    guid: 9645ee4ef6f92f6439e1c476d01a5cfb
   m_configObjects: {}
