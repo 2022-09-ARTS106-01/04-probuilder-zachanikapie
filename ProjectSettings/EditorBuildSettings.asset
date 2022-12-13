@@ -6,27 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/MainScene.unity
-    guid: 7fa7c0d370fa7934d997dbf59fccbf40
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Interior Probuilder.unity
-    guid: a72c67b924717ba44ad2b9f400d4b23f
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Shapes Probuilder.unity
-    guid: 3c88318b5bc3d564ab30d3f2a80c8c7c
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Textured Box.unity
-    guid: 163c3e4c52f1ab6459ebe4ef610ab4df
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Props Probuilder.unity
-    guid: 2ac308b798d6c3d40b0a9e85127414b7
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Low Poly Probuilder.unity
-    guid: 9645ee4ef6f92f6439e1c476d01a5cfb
-  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
     path: Assets/Terrain Manny's Fishing Spot.unity
     guid: d275ae1577002f743ad3b1daa5608dfe
   - enabled: 1
     path: Assets/Shack indoor.unity
     guid: d9a3a8f540d04d946937a6ca5b40a744
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 0c904bac3a16d334598fa6ae937cae28
   m_configObjects: {}
